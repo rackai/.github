@@ -1,7 +1,7 @@
 {
     "name": "NPM Publish",
     "description": "Publishes NPM patch after a push",
-    "iconName": "npm-publiish",
+    "iconName": "npm-publish",
     "filePatterns": [
         "package.json$",
         "README.md",
